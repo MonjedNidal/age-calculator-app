@@ -11,8 +11,7 @@
 }
 
 .App {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif,
-    sans-serif;
+  font-family: "Poppins", sans-serif;
   height: 100vh;
   background-color: var(--LightGrey);
 }
